@@ -1,0 +1,4 @@
+[18-Jan-2021 15:36:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/per8mhqrxbiv/public_html/zimedwp/wp-content/themes/zimed/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/per8mhqrxbiv/public_html/zimedwp/wp-content/themes/zimed/index.php on line 17
