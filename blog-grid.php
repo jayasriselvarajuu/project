@@ -11,6 +11,8 @@
 get_header();
 ?>
 
+<!-- start -->
+
 <section class="blog-one blog-one__grid">
     <div class="container">
         <div class="row">
